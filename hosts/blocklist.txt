@@ -101,7 +101,6 @@
 0.0.0.0 justclick.ru
 0.0.0.0 blinger.io
 0.0.0.0 marketcheese.com
-0.0.0.0 cellxpert.com
 0.0.0.0 venyoo.ru
 0.0.0.0 botfaqtor.ru
 0.0.0.0 experrto.io

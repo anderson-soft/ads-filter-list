@@ -108,7 +108,6 @@
 ||*justclick.ru^
 ||*.blinger.io^
 ||*.marketcheese.com^
-||*.cellxpert.com^
 ||*.venyoo.ru^
 ||*.botfaqtor.ru^
 ||*.experrto.io^
