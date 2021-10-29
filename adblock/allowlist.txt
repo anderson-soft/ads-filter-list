@@ -5,23 +5,12 @@
 @@||s.yimg.com^$important
 @@||*windowsupdate.com^$important
 @@||*delivery.mp.microsoft.com^$important
-@@||*.bing.com^$important
 @@||mobile.pipe.aria.microsoft.com^$important
-@@||habrahabr.ru^$important
 @@||arc.msn.com^$important
 @@||*.typekit.net^$important
-@@||*.wp.com^$important
-@@||*.gvt2.com^$important
-@@||*apple.com^$important
 @@||settings-win.data.microsoft.com^$important
-@@||ebayimg.com^$important
-@@||ebaystatic.com^$important
 @@||assets.adobedtm.com^$important
-@@||rum-static.pingdom.net^$important
-@@||rum-collector-2.pingdom.net^$important
-@@||*gstatic.com^$important
 @@||*netflix.com^$important
-@@||*speedcurve.com^$important
 @@||*envato.market^$important
 
 ! eset
